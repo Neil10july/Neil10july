@@ -5,4 +5,5 @@ If you have any questions, please drop me a message using the links below. Free 
 </p>
 
 <a href="https://www.linkedin.com/in/neil10july"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+</br>
 <a href="mailto: neil10july@hotmail.com">neil10july@hotmail.com</a>  
