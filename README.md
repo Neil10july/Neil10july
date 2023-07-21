@@ -1,5 +1,6 @@
 <img src='https://github.com/neil10july/neil10july/blob/main/images/github-banner.png' alt='github README header' >
 <p>Hi 👋, 
+  
 </br>
 I'm Neil, a Manchester-based developer, enthusiastic about using technology to create solutions that help people and businesses interact better with the digital world.
 
